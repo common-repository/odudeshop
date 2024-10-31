@@ -1,0 +1,1288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ODudeShop 1.0\n"
+"POT-Creation-Date: 2015-10-11 16:27+0545\n"
+"PO-Revision-Date: 2015-10-11 16:40+0545\n"
+"Last-Translator: \n"
+"Language-Team: ODude Netowrk <navneet@odude.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: layout/checkout/billing.php:1
+msgid "Billing and Shipping Info"
+msgstr "Billing and Shipping Info"
+
+#: layout/checkout/billing.php:1
+msgid "Billing Info"
+msgstr "Billing Info"
+
+#: layout/checkout/billing.php:45 layout/checkout/payment_method.php:63
+#: layout/checkout/shipping_method.php:71 tpls/cart.php:255 tpls/cart.php:356
+msgid "Continue"
+msgstr "Continue"
+
+#: layout/checkout/billing_customer.php:2 tpls/orders_purchases.php:52
+msgid "Billing Address"
+msgstr "Billing Address"
+
+#: layout/checkout/billing_customer.php:13 layout/profile/edit-profile.php:170
+msgid "Ship to same address?"
+msgstr "Ship to same address?"
+
+#: layout/checkout/billing_customer.php:21
+#: layout/checkout/billing_shipping.php:8 layout/checkout/noreg.php:18
+#: layout/profile/edit-profile.php:71 layout/profile/edit-profile.php:182
+#: libs/custom_user_info.php:160
+msgid "First Name"
+msgstr "First Name"
+
+#: layout/checkout/billing_customer.php:27
+#: layout/checkout/billing_shipping.php:13 layout/profile/edit-profile.php:76
+#: layout/profile/edit-profile.php:187 libs/custom_user_info.php:29
+#: libs/custom_user_info.php:170
+msgid "Last Name"
+msgstr "Last Name"
+
+#: layout/checkout/billing_customer.php:33
+#: layout/checkout/billing_shipping.php:18 layout/profile/edit-profile.php:84
+#: layout/profile/edit-profile.php:195 libs/custom_user_info.php:39
+#: libs/custom_user_info.php:180
+msgid "Company Name"
+msgstr "Company Name"
+
+#: layout/checkout/billing_customer.php:39
+#: layout/checkout/billing_shipping.php:23
+msgid "Address"
+msgstr "Address"
+
+#: layout/checkout/billing_customer.php:45
+#: layout/checkout/billing_shipping.php:28
+msgid "Address 2"
+msgstr "Address 2"
+
+#: layout/checkout/billing_customer.php:51
+#: layout/checkout/billing_shipping.php:33 layout/profile/edit-profile.php:100
+#: layout/profile/edit-profile.php:211 libs/custom_user_info.php:69
+#: libs/custom_user_info.php:210
+msgid "Town/City"
+msgstr "Town/City"
+
+#: layout/checkout/billing_customer.php:57
+#: layout/checkout/billing_shipping.php:38 layout/profile/edit-profile.php:108
+#: layout/profile/edit-profile.php:219 libs/custom_user_info.php:79
+#: libs/custom_user_info.php:220
+msgid "Postcode/Zip"
+msgstr "Postcode/Zip"
+
+#: layout/checkout/billing_customer.php:63
+#: layout/checkout/billing_shipping.php:43 layout/profile/edit-profile.php:113
+#: layout/profile/edit-profile.php:224 libs/custom_user_info.php:90
+#: libs/custom_user_info.php:230
+msgid "Country"
+msgstr "Country"
+
+#: layout/checkout/billing_customer.php:94
+#: layout/checkout/billing_shipping.php:71 layout/profile/edit-profile.php:146
+#: layout/profile/edit-profile.php:255 libs/custom_user_info.php:126
+#: libs/custom_user_info.php:263
+msgid "State/County"
+msgstr "State/County"
+
+#: layout/checkout/billing_customer.php:100 layout/checkout/noreg.php:24
+#: layout/profile/edit-profile.php:151 libs/custom_user_info.php:136
+msgid "Email Address"
+msgstr "Email Address"
+
+#: layout/checkout/billing_customer.php:106 layout/checkout/noreg.php:29
+#: layout/profile/edit-profile.php:159 libs/custom_user_info.php:146
+msgid "Phone"
+msgstr "Phone"
+
+#: layout/checkout/billing_shipping.php:3 tpls/orders_purchases.php:53
+msgid "Shipping Address"
+msgstr "Shipping Address"
+
+#: layout/checkout/checkout.php:16 layout/checkout/checkout_noreg.php:84
+#: libs/lib.php:12 tpls/cart.php:356 tpls/cart_enquiry.php:164 widget.php:26
+msgid "No item in cart."
+msgstr "No item in cart."
+
+#: layout/checkout/checkout.php:16 layout/checkout/checkout_noreg.php:84
+#: libs/lib.php:12 widget.php:26
+msgid "Continue shopping"
+msgstr "Continue shopping"
+
+#: layout/checkout/checkout_method.php:6
+msgid "Register / Login"
+msgstr "Register / Login"
+
+#: layout/checkout/checkout_method.php:11
+#: layout/checkout/checkout_method.php:40 tpls/login_form.php:30
+msgid "Register"
+msgstr "Register"
+
+#: layout/checkout/checkout_method.php:13
+#: layout/checkout/checkout_method.php:35
+msgid "Register with us for future convenience:"
+msgstr "Register with us for future convenience:"
+
+#: layout/checkout/checkout_method.php:19
+#: layout/checkout/checkout_method.php:53 libs/reg-form.php:14
+#: tpls/login_form.php:15
+msgid "Username"
+msgstr "Username"
+
+#: layout/checkout/checkout_method.php:22 libs/reg-form.php:18
+msgid "E-mail"
+msgstr "E-mail"
+
+#: layout/checkout/checkout_method.php:26
+#: layout/checkout/checkout_method.php:57 tpls/login_form.php:19
+msgid "Password"
+msgstr "Password"
+
+#: layout/checkout/checkout_method.php:34
+msgid "Register and save time!"
+msgstr "Register and save time!"
+
+#: layout/checkout/checkout_method.php:37
+msgid "Fast and easy check out"
+msgstr "Fast and easy check out"
+
+#: layout/checkout/checkout_method.php:38
+msgid "Easy access to your order history and status"
+msgstr "Easy access to your order history and status"
+
+#: layout/checkout/checkout_method.php:45
+#: layout/checkout/checkout_method.php:51
+msgid "Login"
+msgstr "Login"
+
+#: layout/checkout/checkout_method.php:46
+msgid "if you arelady have an account login here:"
+msgstr "if you arelady have an account login here:"
+
+#: layout/checkout/checkout_method.php:61 tpls/login_form.php:23
+msgid "Remember Me"
+msgstr "Remember Me"
+
+#: layout/checkout/checkout_method.php:64
+msgid "Log In"
+msgstr "Log In"
+
+#: layout/checkout/checkout_method.php:69
+msgid "Forgot password?"
+msgstr "Forgot password?"
+
+#: layout/checkout/enquiry_order_review.php:1
+msgid "Final Enquiry Review"
+msgstr "Final Enquiry Review"
+
+#: layout/checkout/enquiry_order_review.php:24 layout/checkout/order_review -
+#: Copy.php:30 layout/checkout/order_review.php:30 tpls/orders_purchases.php:49
+msgid "Shipping"
+msgstr "Shipping"
+
+#: layout/checkout/enquiry_order_review.php:44 layout/checkout/order_review -
+#: Copy.php:39 layout/checkout/order_review.php:39
+msgid "Grand Total:"
+msgstr "Grand Total:"
+
+#: layout/checkout/enquiry_order_review.php:54 layout/checkout/order_review -
+#: Copy.php:49 libs/custom_column.php:10 settings/shipping_options.php:75
+#: settings/shipping_options.php:77 settings/shipping_options.php:120
+#: settings/shipping_options.php:156 settings/shipping_options.php:158
+#: tpls/cart_enquiry.php:15
+msgid "Title"
+msgstr "Title"
+
+#: layout/checkout/enquiry_order_review.php:58 layout/checkout/order_review -
+#: Copy.php:53 libs/print_invoice.php:36 tpls/cart_enquiry.php:19
+#: tpls/orders_purchases.php:32 tpls/view-order.php:21
+msgid "Quantity"
+msgstr "Quantity"
+
+#: layout/checkout/enquiry_order_review.php:149 layout/checkout/order_review -
+#: Copy.php:169 layout/checkout/order_review.php:200
+msgid "Order Notes"
+msgstr "Order Notes"
+
+#: layout/checkout/enquiry_order_review.php:152 layout/checkout/order_review -
+#: Copy.php:172 layout/checkout/order_review.php:203
+#: layout/checkout/payment_method.php:62 layout/checkout/shipping_method.php:70
+msgid "Back"
+msgstr "Back"
+
+#: layout/checkout/enquiry_order_review.php:153 layout/checkout/order_review -
+#: Copy.php:173 layout/checkout/order_review.php:204
+msgid "Place Order"
+msgstr "Place Order"
+
+#: layout/checkout/noreg.php:7
+msgid "Give us your Details"
+msgstr "Give us your Details"
+
+#: layout/checkout/noreg.php:43
+msgid "Go"
+msgstr "Go"
+
+#: layout/checkout/order_review - Copy.php:7 layout/checkout/order_review.php:7
+msgid "Final Order Review"
+msgstr "Final Order Review"
+
+#: layout/checkout/order_review - Copy.php:50 libs/print_invoice.php:35
+#: tpls/orders_purchases.php:33 tpls/view-order.php:20
+msgid "Unit Price"
+msgstr "Unit Price"
+
+#: layout/checkout/order_review - Copy.php:52 tpls/view-order.php:23
+msgid "Coupon Code"
+msgstr "Coupon Code"
+
+#: layout/checkout/order_review - Copy.php:54 tpls/orders_purchases.php:36
+#: tpls/view-order.php:25
+msgid "Total"
+msgstr "Total"
+
+#: layout/checkout/order_review - Copy.php:153
+#: layout/checkout/order_review.php:184
+msgid "Cart Subtotal:"
+msgstr "Cart Subtotal:"
+
+#: layout/checkout/payment_method.php:5 settings/settings.php:116
+msgid "Payment Method"
+msgstr "Payment Method"
+
+#: layout/checkout/payment_method.php:8
+msgid "Select Payment Method:"
+msgstr "Select Payment Method:"
+
+#: layout/checkout/shipping_method.php:1 settings/settings.php:117
+#: settings/shipping_options.php:27
+msgid "Shipping Method"
+msgstr "Shipping Method"
+
+#: layout/checkout/shipping_method.php:7
+msgid "Select Shipping"
+msgstr "Select Shipping"
+
+#: layout/product/header.php:104
+msgid "Free"
+msgstr "Free"
+
+#: layout/product/header.php:160 libs/functions.php:101
+#: libs/print_invoice.php:39 settings/settings.php:119
+#: tpls/orders_purchases.php:37
+msgid "Download"
+msgstr "Download"
+
+#: layout/product/header.php:162 libs/functions.php:133
+msgid "Add to Cart"
+msgstr "Add to Cart"
+
+#: layout/product/header.php:164 libs/functions.php:163
+#: settings/basic_settings.php:31
+msgid "Add to Enquiry"
+msgstr "Add to Enquiry"
+
+#: layout/profile/edit-profile.php:88 layout/profile/edit-profile.php:199
+#: libs/custom_user_info.php:49 libs/custom_user_info.php:190
+msgid "Address Line 1"
+msgstr "Address Line 1"
+
+#: layout/profile/edit-profile.php:96 layout/profile/edit-profile.php:207
+#: libs/custom_user_info.php:59 libs/custom_user_info.php:200
+msgid "Address Line 2"
+msgstr "Address Line 2"
+
+#: libs/cart.php:717
+msgid "Order status updated"
+msgstr "Order status updated"
+
+#: libs/cart.php:723
+msgid "Payment status updated"
+msgstr "Payment status updated"
+
+#: libs/cart.php:731
+msgid "function not defined!"
+msgstr "function not defined!"
+
+#: libs/custom_column.php:11
+msgid "Author"
+msgstr "Author"
+
+#: libs/custom_column.php:12 libs/install.php:75
+msgid "Category"
+msgstr "Category"
+
+#: libs/custom_column.php:13
+msgid "Sales Qty"
+msgstr "Sales Qty"
+
+#: libs/custom_column.php:14
+msgid "Total Sales"
+msgstr "Total Sales"
+
+#: libs/custom_column.php:19
+msgid "Downloads"
+msgstr "Downloads"
+
+#: libs/custom_column.php:22
+msgid ""
+"<span class=\"vers\"><div title=\"Comments\" class=\"comment-grey-bubble\"></"
+"div></span>"
+msgstr ""
+"<span class=\"vers\"><div title=\"Comments\" class=\"comment-grey-bubble\"></"
+"div></span>"
+
+#: libs/custom_column.php:23 tpls/orders.php:49 tpls/user_order_list.php:7
+msgid "Date"
+msgstr "Date"
+
+#: libs/custom_column.php:141
+msgid "--"
+msgstr "--"
+
+#: libs/custom_user_info.php:14
+msgid "Customer Billing Address"
+msgstr "Customer Billing Address"
+
+#: libs/custom_user_info.php:19
+msgid "Billing First Name"
+msgstr "Billing First Name"
+
+#: libs/custom_user_info.php:23
+msgid "Enter your billing first name."
+msgstr "Enter your billing first name."
+
+#: libs/custom_user_info.php:33
+msgid "Enter your billing last name."
+msgstr "Enter your billing last name."
+
+#: libs/custom_user_info.php:43
+msgid "Enter your company name."
+msgstr "Enter your company name."
+
+#: libs/custom_user_info.php:53
+msgid "Enter your billing address line 1."
+msgstr "Enter your billing address line 1."
+
+#: libs/custom_user_info.php:63
+msgid "Enter your billing address line 2."
+msgstr "Enter your billing address line 2."
+
+#: libs/custom_user_info.php:73
+msgid "Enter your billing city name."
+msgstr "Enter your billing city name."
+
+#: libs/custom_user_info.php:83
+msgid "Enter your billing post code."
+msgstr "Enter your billing post code."
+
+#: libs/custom_user_info.php:119
+msgid "Enter your billing country name."
+msgstr "Enter your billing country name."
+
+#: libs/custom_user_info.php:130
+msgid "Enter your billing state."
+msgstr "Enter your billing state."
+
+#: libs/custom_user_info.php:140
+msgid "Enter your billing email address."
+msgstr "Enter your billing email address."
+
+#: libs/custom_user_info.php:150
+msgid "Enter your billing phone number."
+msgstr "Enter your billing phone number."
+
+#: libs/custom_user_info.php:155
+msgid "Customer Shipping Address"
+msgstr "Customer Shipping Address"
+
+#: libs/custom_user_info.php:164
+msgid "Enter your shipping first name."
+msgstr "Enter your shipping first name."
+
+#: libs/custom_user_info.php:174
+msgid "Enter your shipping last name."
+msgstr "Enter your shipping last name."
+
+#: libs/custom_user_info.php:184
+msgid "Enter your shipping company name."
+msgstr "Enter your shipping company name."
+
+#: libs/custom_user_info.php:194
+msgid "Enter your shipping address line 1."
+msgstr "Enter your shipping address line 1."
+
+#: libs/custom_user_info.php:204
+msgid "Enter your shipping address line 2."
+msgstr "Enter your shipping address line 2."
+
+#: libs/custom_user_info.php:214
+msgid "Enter your shipping city name."
+msgstr "Enter your shipping city name."
+
+#: libs/custom_user_info.php:224
+msgid "Enter your shipping postcode."
+msgstr "Enter your shipping postcode."
+
+#: libs/custom_user_info.php:257
+msgid "Enter your shipping country."
+msgstr "Enter your shipping country."
+
+#: libs/custom_user_info.php:267
+msgid "Enter your shipping state name."
+msgstr "Enter your shipping state name."
+
+#: libs/functions.php:122
+msgid "Select Options"
+msgstr "Select Options"
+
+#: libs/functions.php:154
+msgid "Check Details"
+msgstr "Check Details"
+
+#: libs/install.php:17
+msgid "ODudeShop"
+msgstr "ODudeShop"
+
+#: libs/install.php:18 tpls/orders_purchases.php:31
+msgid "Product"
+msgstr "Product"
+
+#: libs/install.php:19
+msgid "Add "
+msgstr "Add "
+
+#: libs/install.php:20
+msgid "Add New "
+msgstr "Add New "
+
+#: libs/install.php:21
+msgid "Edit "
+msgstr "Edit "
+
+#: libs/install.php:22
+msgid "New "
+msgstr "New "
+
+#: libs/install.php:23
+msgid "View Product"
+msgstr "View Product"
+
+#: libs/install.php:24
+msgid "Search Product"
+msgstr "Search Product"
+
+#: libs/install.php:25
+msgid "No product found"
+msgstr "No product found"
+
+#: libs/install.php:26
+msgid "No product found in Trash"
+msgstr "No product found in Trash"
+
+#: libs/install.php:51
+msgid "Info Tabs"
+msgstr "Info Tabs"
+
+#: libs/install.php:52
+msgid "Info Tab"
+msgstr "Info Tab"
+
+#: libs/install.php:53
+msgid "Add New Tab"
+msgstr "Add New Tab"
+
+#: libs/install.php:74 libs/install.php:84
+msgid "Categories"
+msgstr "Categories"
+
+#: libs/install.php:76
+msgid "Search Categories"
+msgstr "Search Categories"
+
+#: libs/install.php:77
+msgid "All Categories"
+msgstr "All Categories"
+
+#: libs/install.php:78
+msgid "Parent Category"
+msgstr "Parent Category"
+
+#: libs/install.php:79
+msgid "Parent Category:"
+msgstr "Parent Category:"
+
+#: libs/install.php:80
+msgid "Edit Category"
+msgstr "Edit Category"
+
+#: libs/install.php:81
+msgid "Update Category"
+msgstr "Update Category"
+
+#: libs/install.php:82
+msgid "Add New Category"
+msgstr "Add New Category"
+
+#: libs/install.php:83
+msgid "New Category Name"
+msgstr "New Category Name"
+
+#: libs/lib.php:47 libs/lib.php:52 libs/lib.php:58 tpls/cart_enquiry.php:117
+msgid "Checkout"
+msgstr "Checkout"
+
+#: libs/payment_methods/Cashondelivery/class.Cashondelivery.php:37
+#: libs/payment_methods/Cheque/class.Cheque.php:32
+#: libs/payment_methods/Googlecheckout/class.Googlecheckout.php:50
+#: libs/payment_methods/Paypal/class.Paypal.php:52
+#: libs/payment_methods/TwoCheckOut/class.TwoCheckOut.php:58
+msgid "Enable/Disable:"
+msgstr "Enable/Disable:"
+
+#: libs/payment_methods/Cashondelivery/class.Cashondelivery.php:37
+msgid "Enable Cashondelivery"
+msgstr "Enable Cashondelivery"
+
+#: libs/payment_methods/Cashondelivery/class.Cashondelivery.php:38
+msgid "Remark:"
+msgstr "Remark:"
+
+#: libs/payment_methods/Cashondelivery/class.Cashondelivery.php:53
+#: libs/payment_methods/Cheque/class.Cheque.php:48
+msgid "Order Completed."
+msgstr "Order Completed."
+
+#: libs/payment_methods/Cashondelivery/class.Cashondelivery.php:53
+#: libs/payment_methods/Cheque/class.Cheque.php:48
+msgid "Please wait while redirected."
+msgstr "Please wait while redirected."
+
+#: libs/payment_methods/Cheque/class.Cheque.php:32
+msgid "Enable Cheque"
+msgstr "Enable Cheque"
+
+#: libs/payment_methods/Cheque/class.Cheque.php:33
+msgid "Message:"
+msgstr "Message:"
+
+#: libs/payment_methods/Googlecheckout/class.Googlecheckout.php:50
+msgid "Enable Googlecheckout"
+msgstr "Enable Googlecheckout"
+
+#: libs/payment_methods/Googlecheckout/class.Googlecheckout.php:51
+msgid "Googlecheckout Mode:"
+msgstr "Googlecheckout Mode:"
+
+#: libs/payment_methods/Googlecheckout/class.Googlecheckout.php:52
+msgid "Googlecheckout Merchant ID:"
+msgstr "Googlecheckout Merchant ID:"
+
+#: libs/payment_methods/Googlecheckout/class.Googlecheckout.php:113
+msgid "Processing...."
+msgstr "Processing...."
+
+#: libs/payment_methods/Paypal/class.Paypal.php:52
+msgid "Enable Paypal"
+msgstr "Enable Paypal"
+
+#: libs/payment_methods/Paypal/class.Paypal.php:53
+msgid "Paypal Mode:"
+msgstr "Paypal Mode:"
+
+#: libs/payment_methods/Paypal/class.Paypal.php:54
+msgid "Paypal Email:"
+msgstr "Paypal Email:"
+
+#: libs/payment_methods/Paypal/class.Paypal.php:55
+#: libs/payment_methods/TwoCheckOut/class.TwoCheckOut.php:62
+msgid "Cancel Url:"
+msgstr "Cancel Url:"
+
+#: libs/payment_methods/Paypal/class.Paypal.php:56
+#: libs/payment_methods/TwoCheckOut/class.TwoCheckOut.php:63
+msgid "Return Url:"
+msgstr "Return Url:"
+
+#: libs/payment_methods/TwoCheckOut/class.TwoCheckOut.php:58
+msgid "Enable TwoCheckOut"
+msgstr "Enable TwoCheckOut"
+
+#: libs/payment_methods/TwoCheckOut/class.TwoCheckOut.php:59
+msgid "2CheckOut Mode:"
+msgstr "2CheckOut Mode:"
+
+#: libs/payment_methods/TwoCheckOut/class.TwoCheckOut.php:60
+msgid "2CheckOut sid:"
+msgstr "2CheckOut sid:"
+
+#: libs/payment_methods/TwoCheckOut/class.TwoCheckOut.php:61
+msgid "2CheckOut Secret Word:"
+msgstr "2CheckOut Secret Word:"
+
+#: libs/print_invoice.php:24 tpls/orders.php:59 tpls/view-order.php:119
+msgid "Order ID:"
+msgstr "Order ID:"
+
+#: libs/print_invoice.php:25 tpls/view-order.php:118
+msgid "Order Summary"
+msgstr "Order Summary"
+
+#: libs/print_invoice.php:26
+msgid "Order Discount:"
+msgstr "Order Discount:"
+
+#: libs/print_invoice.php:27 tpls/view-order.php:123
+msgid "Shipping:"
+msgstr "Shipping:"
+
+#: libs/print_invoice.php:28 tpls/view-order.php:128
+msgid "Order Total:"
+msgstr "Order Total:"
+
+#: libs/print_invoice.php:29 tpls/view-order.php:129
+msgid "Order Date:"
+msgstr "Order Date:"
+
+#: libs/print_invoice.php:30 tpls/view-order.php:136
+msgid "Customer ID:"
+msgstr "Customer ID:"
+
+#: libs/print_invoice.php:31
+msgid "Customer Details"
+msgstr "Customer Details"
+
+#: libs/print_invoice.php:32 tpls/view-order.php:137
+msgid "Customer Name:"
+msgstr "Customer Name:"
+
+#: libs/print_invoice.php:33 tpls/view-order.php:138
+msgid "Customer Email:"
+msgstr "Customer Email:"
+
+#: libs/print_invoice.php:34 tpls/view-order.php:19
+msgid "Item Name"
+msgstr "Item Name"
+
+#: libs/print_invoice.php:37 tpls/orders_purchases.php:48
+msgid "Discount"
+msgstr "Discount"
+
+#: libs/print_invoice.php:38 tpls/view-order.php:26
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: libs/reg-form.php:4
+msgid "Registration Failed!"
+msgstr "Registration Failed!"
+
+#: libs/reg-form.php:21
+msgid "A password will be e-mailed to you."
+msgstr "A password will be e-mailed to you."
+
+#: libs/reg-form.php:27
+msgid "Already have account? Login"
+msgstr "Already have account? Login"
+
+#: libs/stock.php:62
+msgid "Stock not enabled"
+msgstr "Stock not enabled"
+
+#: modules/additional-preview-images.php:42
+msgid "Browse"
+msgstr "Browse"
+
+#: modules/additional-preview-images.php:153
+msgid "Product Images"
+msgstr "Product Images"
+
+#: odudeshop.php:102
+msgid "Failed to create product dir autometically. You have to create the dir "
+msgstr ""
+"Failed to create product dir autometically. You have to create the dir "
+
+#: odudeshop.php:102 odudeshop.php:107
+msgid "manually."
+msgstr "manually."
+
+#: odudeshop.php:107
+msgid ""
+"Failed to create product image dir autometically. You have to create the dir "
+msgstr ""
+"Failed to create product image dir autometically. You have to create the dir "
+
+#: odudeshop.php:169 odudeshop.php:189
+msgid "Pricing & Discounts"
+msgstr "Pricing & Discounts"
+
+#: odudeshop.php:170 odudeshop.php:190
+msgid "Basic Features"
+msgstr "Basic Features"
+
+#: odudeshop.php:171 odudeshop.php:191
+msgid "Product Status"
+msgstr "Product Status"
+
+#: odudeshop.php:172 odudeshop.php:192
+msgid "Select Info Tab"
+msgstr "Select Info Tab"
+
+#: odudeshop.php:198
+msgid "Stock"
+msgstr "Stock"
+
+#: odudeshop.php:202
+msgid "Minimum Quantity"
+msgstr "Minimum Quantity"
+
+#: odudeshop.php:268
+msgid "Manage Stock"
+msgstr "Manage Stock"
+
+#: odudeshop.php:270
+msgid "Stock Quantity"
+msgstr "Stock Quantity"
+
+#: odudeshop.php:524
+msgid "Orders &lsaquo; ODudeShop"
+msgstr "Orders &lsaquo; ODudeShop"
+
+#: odudeshop.php:524 tpls/orders.php:7
+msgid "Orders"
+msgstr "Orders"
+
+#: odudeshop.php:525
+msgid "Settings &lsaquo; ODudeShop"
+msgstr "Settings &lsaquo; ODudeShop"
+
+#: odudeshop.php:525
+msgid "Settings"
+msgstr "Settings"
+
+#: odudeshop.php:555
+msgid "Settings Saved Successfully"
+msgstr "Settings Saved Successfully"
+
+#: odudeshop.php:620
+msgid "Username is Empty!"
+msgstr "Username is Empty!"
+
+#: odudeshop.php:624
+msgid "Invalid Email Address!"
+msgstr "Invalid Email Address!"
+
+#: odudeshop.php:664
+msgid "Email already exists."
+msgstr "Email already exists."
+
+#: odudeshop.php:669
+msgid "User already exists."
+msgstr "User already exists."
+
+#: odudeshop.php:964
+msgid "Allowed Files"
+msgstr "Allowed Files"
+
+#: odudeshop.php:1043
+msgid "Profile Updated Successfully"
+msgstr "Profile Updated Successfully"
+
+#: odudeshop.php:1046
+msgid "Confirm Password Not Matched. Profile Update Failed!"
+msgstr "Confirm Password Not Matched. Profile Update Failed!"
+
+#: settings/basic_settings.php:20
+msgid "Restart Setup ?"
+msgstr "Restart Setup ?"
+
+#: settings/basic_settings.php:29
+msgid "Which button to show ?"
+msgstr "Which button to show ?"
+
+#: settings/basic_settings.php:30
+msgid "Add to cart"
+msgstr "Add to cart"
+
+#: settings/basic_settings.php:32
+msgid "Nothing"
+msgstr "Nothing"
+
+#: settings/basic_settings.php:35
+msgid "Purchasing Style ?"
+msgstr "Purchasing Style ?"
+
+#: settings/basic_settings.php:36
+msgid "Force Registration"
+msgstr "Force Registration"
+
+#: settings/basic_settings.php:37
+msgid "No Registration"
+msgstr "No Registration"
+
+#: settings/basic_settings.php:43
+msgid "Cart Page :"
+msgstr "Cart Page :"
+
+#: settings/basic_settings.php:68
+msgid "Checkout Page :"
+msgstr "Checkout Page :"
+
+#: settings/basic_settings.php:94
+msgid "Orders Page :"
+msgstr "Orders Page :"
+
+#: settings/basic_settings.php:118
+msgid "System URL:"
+msgstr "System URL:"
+
+#: settings/country_options.php:16
+msgid "Allowed Countries"
+msgstr "Allowed Countries"
+
+#: settings/download_options.php:1
+msgid "Download Page"
+msgstr "Download Page"
+
+#: settings/download_options.php:2
+msgid "Show Download Button for Free Digital Product"
+msgstr "Show Download Button for Free Digital Product"
+
+#: settings/payment_options.php:6
+msgid "Payment Gateways"
+msgstr "Payment Gateways"
+
+#: settings/payment_options.php:7
+msgid "Your activated payment gateways are listed below."
+msgstr "Your activated payment gateways are listed below."
+
+#: settings/payment_options.php:12
+msgid "Gateway"
+msgstr "Gateway"
+
+#: settings/payment_options.php:13 settings/shipping_options.php:28
+msgid "Status"
+msgstr "Status"
+
+#: settings/payment_options.php:31
+msgid "Active"
+msgstr "Active"
+
+#: settings/payment_options.php:31
+msgid "Inactive"
+msgstr "Inactive"
+
+#: settings/payment_options.php:45
+msgid "Payment Methods Configuration"
+msgstr "Payment Methods Configuration"
+
+#: settings/payment_options.php:69
+msgid "Currency Configuration"
+msgstr "Currency Configuration"
+
+#: settings/payment_options.php:71
+msgid "Currency"
+msgstr "Currency"
+
+#: settings/payment_options.php:81 settings/shipping_options.php:26
+msgid "Default"
+msgstr "Default"
+
+#: settings/payment_options.php:81
+msgid "Currency Code"
+msgstr "Currency Code"
+
+#: settings/payment_options.php:81
+msgid "Currency Symbol"
+msgstr "Currency Symbol"
+
+#: settings/payment_options.php:81
+msgid "Action"
+msgstr "Action"
+
+#: settings/payment_options.php:91
+msgid "Delete"
+msgstr "Delete"
+
+#: settings/payment_options.php:102
+msgid "Currency Code:"
+msgstr "Currency Code:"
+
+#: settings/payment_options.php:104
+msgid "Currency Symbol:"
+msgstr "Currency Symbol:"
+
+#: settings/purchase_options.php:2
+msgid "Cart Minimum Amount:"
+msgstr "Cart Minimum Amount:"
+
+#: settings/purchase_options.php:5
+msgid "Enable Purchase Minium Quanity"
+msgstr "Enable Purchase Minium Quanity"
+
+#: settings/settings.php:115
+msgid "Basic Settings"
+msgstr "Basic Settings"
+
+#: settings/settings.php:118
+msgid "Stock Management"
+msgstr "Stock Management"
+
+#: settings/settings.php:120
+msgid "Country Options"
+msgstr "Country Options"
+
+#: settings/settings.php:121
+msgid "Purchase Options"
+msgstr "Purchase Options"
+
+#: settings/settings.php:185
+msgid "What you want to sell ?"
+msgstr "What you want to sell ?"
+
+#: settings/settings.php:187
+msgid "Physical Goods"
+msgstr "Physical Goods"
+
+#: settings/settings.php:188
+msgid "Digital Goods"
+msgstr "Digital Goods"
+
+#: settings/shipping_options.php:2
+msgid "Shipping Options"
+msgstr "Shipping Options"
+
+#: settings/shipping_options.php:6 settings/shipping_options.php:9
+msgid "Shipping calculations"
+msgstr "Shipping calculations"
+
+#: settings/shipping_options.php:12
+msgid "Enable shipping"
+msgstr "Enable shipping"
+
+#: settings/shipping_options.php:17
+msgid "Shipping Methods"
+msgstr "Shipping Methods"
+
+#: settings/shipping_options.php:37 settings/shipping_options.php:64
+msgid "Flat Rate / Pickup"
+msgstr "Flat Rate / Pickup"
+
+#: settings/shipping_options.php:46 settings/shipping_options.php:107
+msgid "Free Shipping"
+msgstr "Free Shipping"
+
+#: settings/shipping_options.php:55 settings/shipping_options.php:143
+#: settings/shipping_options.php:145
+msgid "Local Delivery"
+msgstr "Local Delivery"
+
+#: settings/shipping_options.php:62
+msgid "Shipping Methods Configuration"
+msgstr "Shipping Methods Configuration"
+
+#: settings/shipping_options.php:68 settings/shipping_options.php:70
+#: settings/shipping_options.php:113 settings/shipping_options.php:115
+msgid "Enable/Disable"
+msgstr "Enable/Disable"
+
+#: settings/shipping_options.php:71
+msgid "Enable this shipping method"
+msgstr "Enable this shipping method"
+
+#: settings/shipping_options.php:78 settings/shipping_options.php:123
+#: settings/shipping_options.php:159
+msgid "This controls the title which the user sees during checkout."
+msgstr "This controls the title which the user sees during checkout."
+
+#: settings/shipping_options.php:84 settings/shipping_options.php:86
+msgid "Default Cost"
+msgstr "Default Cost"
+
+#: settings/shipping_options.php:87
+msgid "Cost excluding tax. Enter an amount, e.g. 2.50."
+msgstr "Cost excluding tax. Enter an amount, e.g. 2.50."
+
+#: settings/shipping_options.php:91 settings/shipping_options.php:93
+msgid "Default Handling Fee"
+msgstr "Default Handling Fee"
+
+#: settings/shipping_options.php:94
+msgid "Fee excluding tax. Enter an amount, e.g. 2.50."
+msgstr "Fee excluding tax. Enter an amount, e.g. 2.50."
+
+#: settings/shipping_options.php:98 settings/shipping_options.php:100
+#: settings/shipping_options.php:134 settings/shipping_options.php:136
+#: settings/shipping_options.php:181 settings/shipping_options.php:183
+msgid "Instruction Note"
+msgstr "Instruction Note"
+
+#: settings/shipping_options.php:101 settings/shipping_options.php:137
+#: settings/shipping_options.php:184
+msgid "Message for client."
+msgstr "Message for client."
+
+#: settings/shipping_options.php:116
+msgid "Enable Free Shipping"
+msgstr "Enable Free Shipping"
+
+#: settings/shipping_options.php:122
+msgid "Method Title"
+msgstr "Method Title"
+
+#: settings/shipping_options.php:127
+msgid "Minimum Order Amount"
+msgstr "Minimum Order Amount"
+
+#: settings/shipping_options.php:130
+msgid "Users will need to spend this amount to get free shipping."
+msgstr "Users will need to spend this amount to get free shipping."
+
+#: settings/shipping_options.php:146
+msgid ""
+"Local delivery is a simple shipping method for delivering orders locally."
+msgstr ""
+"Local delivery is a simple shipping method for delivering orders locally."
+
+#: settings/shipping_options.php:149 settings/shipping_options.php:151
+msgid "Enable"
+msgstr "Enable"
+
+#: settings/shipping_options.php:152
+msgid " Enable local delivery"
+msgstr " Enable local delivery"
+
+#: settings/shipping_options.php:163 settings/shipping_options.php:165
+msgid "Fee Type"
+msgstr "Fee Type"
+
+#: settings/shipping_options.php:170
+msgid "How to calculate delivery charges"
+msgstr "How to calculate delivery charges"
+
+#: settings/shipping_options.php:174 settings/shipping_options.php:176
+msgid "Fee"
+msgstr "Fee"
+
+#: settings/shipping_options.php:177
+msgid ""
+"What fee do you want to charge for local delivery, disregarded if you choose "
+"free."
+msgstr ""
+"What fee do you want to charge for local delivery, disregarded if you choose "
+"free."
+
+#: settings/stock_options.php:2
+msgid "Stock Options"
+msgstr "Stock Options"
+
+#: settings/stock_options.php:7
+msgid "Manage stock"
+msgstr "Manage stock"
+
+#: settings/stock_options.php:11
+msgid "Enable stock management"
+msgstr "Enable stock management"
+
+#: settings/stock_options.php:17
+msgid "Enable Global Low stock (For All Product)"
+msgstr "Enable Global Low stock (For All Product)"
+
+#: settings/stock_options.php:24
+msgid "Low stock threshold for all product "
+msgstr "Low stock threshold for all product "
+
+#: settings/stock_options.php:39
+msgid "Admin notification on low stock threshold"
+msgstr "Admin notification on low stock threshold"
+
+#: settings/stock_options.php:46
+msgid "Stock Reduce"
+msgstr "Stock Reduce"
+
+#: settings/stock_options.php:49
+msgid "Enable Stock Reduce Automatically"
+msgstr "Enable Stock Reduce Automatically"
+
+#: tpls/cart.php:248
+msgid "Update Cart"
+msgstr "Update Cart"
+
+#: tpls/cart.php:250
+msgid "Total:"
+msgstr "Total:"
+
+#: tpls/cart_enquiry.php:114 tpls/cart_enquiry.php:164
+msgid "Continue Enquiry"
+msgstr "Continue Enquiry"
+
+#: tpls/cart_enquiry.php:116
+msgid "Update Quantity"
+msgstr "Update Quantity"
+
+#: tpls/login_form.php:29 tpls/remind_password.php:4
+msgid "Forgot Password?"
+msgstr "Forgot Password?"
+
+#: tpls/metaboxes/pricing.php:16
+msgid "Base Price"
+msgstr "Base Price"
+
+#: tpls/metaboxes/pricing.php:19
+msgid ""
+"If product has a discounted price which is lower then regular price (base "
+"price)"
+msgstr ""
+"If product has a discounted price which is lower then regular price (base "
+"price)"
+
+#: tpls/metaboxes/pricing.php:19
+msgid "Sales Price"
+msgstr "Sales Price"
+
+#: tpls/metaboxes/pricing.php:23
+msgid "Sales Price Expire Date: "
+msgstr "Sales Price Expire Date: "
+
+#: tpls/metaboxes/pricing.php:76 tpls/metaboxes/pricing.php:77
+msgid "Multiple Select:"
+msgstr "Multiple Select:"
+
+#: tpls/orders.php:50
+msgid "from"
+msgstr "from"
+
+#: tpls/orders.php:51
+msgid "to"
+msgstr "to"
+
+#: tpls/orders.php:63
+msgid "order(s) found"
+msgstr "order(s) found"
+
+#: tpls/orders.php:76 tpls/orders.php:89
+msgid "Order ID"
+msgstr "Order ID"
+
+#: tpls/orders.php:77 tpls/orders.php:90
+msgid "Total Amount"
+msgstr "Total Amount"
+
+#: tpls/orders.php:78 tpls/orders.php:91
+msgid "Customer Name"
+msgstr "Customer Name"
+
+#: tpls/orders.php:79 tpls/orders.php:92 tpls/orders_purchases.php:30
+msgid "Order Status"
+msgstr "Order Status"
+
+#: tpls/orders.php:80 tpls/orders.php:93 tpls/user_order_list.php:8
+msgid "Payment Status"
+msgstr "Payment Status"
+
+#: tpls/orders.php:81 tpls/orders.php:94
+msgid "Order Date"
+msgstr "Order Date"
+
+#: tpls/orders.php:136
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: tpls/orders.php:137
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: tpls/orders.php:150
+#, php-format
+msgid "Displaying %s&#8211;%s of %s"
+msgstr "Displaying %s&#8211;%s of %s"
+
+#: tpls/orders.php:174
+msgid "Find Posts or Pages"
+msgstr "Find Posts or Pages"
+
+#: tpls/orders.php:179
+msgid "Search"
+msgstr "Search"
+
+#: tpls/orders.php:184
+msgid "Posts"
+msgstr "Posts"
+
+#: tpls/orders.php:186
+msgid "Pages"
+msgstr "Pages"
+
+#: tpls/orders_purchases.php:29
+msgid "Order Details"
+msgstr "Order Details"
+
+#: tpls/orders_purchases.php:34 tpls/view-order.php:24
+msgid "Coupon Discount"
+msgstr "Coupon Discount"
+
+#: tpls/orders_purchases.php:35
+msgid "Role Discount"
+msgstr "Role Discount"
+
+#: tpls/orders_purchases.php:50
+msgid "Customer details"
+msgstr "Customer details"
+
+#: tpls/orders_purchases.php:51
+msgid "Email"
+msgstr "Email"
+
+#: tpls/orders_purchases.php:54
+msgid "Payment status is not yet marked as completed."
+msgstr "Payment status is not yet marked as completed."
+
+#: tpls/orders_purchases.php:55
+msgid "Pay or Wait"
+msgstr "Pay or Wait"
+
+#: tpls/remind_password.php:6
+msgid "Username or E-mail:"
+msgstr "Username or E-mail:"
+
+#: tpls/user_order_list.php:6
+msgid "Order Id"
+msgstr "Order Id"
+
+#: tpls/view-order.php:115
+msgid "Message"
+msgstr "Message"
+
+#: tpls/view-order.php:120
+msgid "Coupon Discount:"
+msgstr "Coupon Discount:"
+
+#: tpls/view-order.php:130
+msgid "Order Note:"
+msgstr "Order Note:"
+
+#: tpls/view-order.php:135
+msgid "Customer Info"
+msgstr "Customer Info"
+
+#: tpls/view-order.php:142
+msgid "Order Items"
+msgstr "Order Items"
+
+#: tpls/view-order.php:147
+msgid "Order Status:"
+msgstr "Order Status:"
+
+#: tpls/view-order.php:156
+msgid "Payment Status:"
+msgstr "Payment Status:"
